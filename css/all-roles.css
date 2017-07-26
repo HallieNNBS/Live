@@ -383,3 +383,7 @@ body.elm-user-pro-member.columbia-group-pro-admin .mt-new-features-container {
         margin-bottom: -20px;
     }
 }
+
+.mt-welcome-redirect:before {
+    content: '\e613';
+}
